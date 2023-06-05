@@ -1,3 +1,5 @@
+:warning: **This repository has been superseded by the [Verified Sources Repository](https://github.com/dlt-hub/verified-sources), and is only kept for compatibility purposes.**
+
 <h1 align="center">
     <strong>data load tool (dlt) — verified pipelines repository</strong>
 </h1>
